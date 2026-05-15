@@ -2,11 +2,7 @@ name: Ohm Theory Automated Scraper
 
 on:
 schedule:
-# Runs every 30 minutes
 - cron: '*/30 * * * *'
-
-Lets you manually click a "Run" button in GitHub to test it
-
 workflow_dispatch:
 
 permissions:
