@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ohm Theory Digital Menu</title>
+    
+    <!-- Tailwind CSS for rapid styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- QRCode.js for live QR code generation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    
+    <!-- Premium Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;500;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --ohm-purple: #7c3aed;
+            --ohm-dark: #09090b;
+            --ohm-accent: #a78bfa;
+        }
+        
+        body {
+            background-color: var(--ohm-dark);
+            color: #ffffff;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            overflow: hidden; /* Prevent scrolling on TV displays */
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Subtle glowing background effect */
+        .glow-bg {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 90vw;
+            height: 90vh;
+            background: radial-gradient(circle, rgba(124, 58, 237, 0.12) 0%, transparent 60%);
+            z-index: -1;
+        }
+        
+        .product-image-container {
+            filter: drop-shadow(0 25px 35px rgba(0,0,0,0.6));
+        }
+        
+        /* Smooth transitions for rotating items */
+        .fade-enter { 
+            opacity: 0; 
+            transform: scale(0.97) translateY(15px); 
+        }
+        .fade-active { 
+            opacity: 1; 
+            transform: scale(1) translateY(0); 
+            transition: all 1.2s cubic-bezier(0.22, 1, 0.36, 1); 
+        }
+        
+        /* Bottom progress indicator */
+        .progress-bar {
+            height: 6px;
+            background: linear-gradient(90deg, var(--ohm-purple), var(--ohm-accent));
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0%;
+        }
+        
+        /* Styling the dynamically generated QR code */
+        #qrcode img {
+            border: 8px solid white;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+        }
+
+        /* Utility for text truncation on very long names */
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;  
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center">
+
+    <div class="glow-bg"></div>
+
+    <div id="app" class="relative w-full h-full flex flex-col p-10 md:p-16">
+        
+        <!-- Header -->
+        <header class="flex justify-between items-center mb-12">
+            <div class="flex items-center gap-5">
+                <div class="w-14 h-14 bg-violet-600 rounded-full flex items-center justify-center font-bold text-3xl italic shadow-[0_0_20px_rgba(124,58,237,0.5)]">Ω</div>
+                <h2 class="text-3xl font-light tracking-[0.3em] uppercase opacity-60">Ohm Theory</h2>
+            </div>
+            <div id="clock" class="text-5xl font-light tracking-tighter opacity-80">00:00 PM</div>
+        </header>
+
+        <main id="content-area" class="fade-enter grid grid-cols-12 gap-16 items-center flex-grow max-w-[1800px] mx-auto w-full">
+            
+            <!-- Left Side: Product Image -->
+            <div class="col-span-5 flex items-center justify-center relative product-image-container h-[60vh]">
+                <!-- Decorative behind-image glow -->
+                <div class="absolute w-[80%] h-[80%] bg-violet-500/10 rounded-full blur-[100px]"></div>
+                
+                <img id="p-img" src="" class="w-full max-h-full object-contain z-10 hidden rounded-3xl" alt="Product Image">
+                
+                <!-- Fallback if no image exists -->
+                <div id="p-placeholder" class="text-[12rem] opacity-20 z-10 flex flex-col items-center">
+                    🌿
+                    <span class="text-2xl mt-4 tracking-widest font-bold uppercase">Image Unavailable</span>
+                </div>
+            </div>
+
+            <!-- Right Side: Product Details -->
+            <div class="col-span-7 space-y-8 pl-8">
+                <div>
+                    <span id="p-brand" class="text-violet-400 font-bold text-3xl uppercase tracking-widest block mb-3">Loading Brand...</span>
+                    <h1 id="p-name" class="text-7xl xl:text-8xl font-extrabold leading-tight tracking-tighter line-clamp-3">Loading Product...</h1>
+                </div>
+
+                <div class="flex items-center gap-6 flex-wrap">
+                    <span id="p-category" class="bg-white/10 border border-white/20 px-6 py-2 rounded-full text-2xl font-medium text-white shadow-lg backdrop-blur-sm">--</span>
+                    <span id="p-meta" class="text-3xl text-zinc-400 font-light">--</span>
+                </div>
+
+                <div class="flex items-end justify-between pt-12 border-t border-white/10 mt-12">
+                    <div id="p-price" class="text-[9rem] xl:text-[11rem] font-black text-white tracking-tighter leading-none drop-shadow-[0_0_30px_rgba(255,255,255,0.2)]">$00</div>
+                    
+                    <div class="flex flex-col items-center gap-4 mb-4">
+                        <div id="qrcode" class="bg-white p-3 rounded-2xl"></div>
+                        <p class="text-sm font-bold uppercase tracking-[0.2em] text-violet-300">Scan to Order</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="mt-auto flex justify-between items-end pb-4 pt-8">
+            <p class="text-zinc-500 font-medium tracking-widest uppercase text-sm">On-The-Go Digital Menu</p>
+            <p id="item-count" class="text-violet-400/60 font-mono text-xl font-bold">ITEM 00 / 00</p>
+        </footer>
+
+        <div id="progress" class="progress-bar"></div>
+    </div>
+
+    <script>
+        // Configuration
+        const DATA_PATH = 'products_ohm.json';
+        const SLIDE_DURATION = 15000; // 15 Seconds per item
+        
+        let products = [];
+        let currentIndex = 0;
+        let slideInterval;
+
+        // Initialize the app
+        async function init() {
+            try {
+                // Fetch data with a cache-busting query parameter
+                const response = await fetch(DATA_PATH + '?v=' + new Date().getTime());
+                if (!response.ok) throw new Error('Network response was not ok');
+                
+                products = await response.json();
+                
+                if (products && products.length > 0) {
+                    startRotation();
+                } else {
+                    showError("No products found in the feed.");
+                }
+            } catch (error) {
+                console.error("Error loading products:", error);
+                showError("Unable to load menu data. Please check the JSON file.");
+            }
+        }
+
+        // Display an error on screen if JSON fails to load
+        function showError(msg) {
+            document.getElementById('p-name').textContent = "System Error";
+            document.getElementById('p-brand').textContent = "ERROR";
+            document.getElementById('p-price').textContent = "---";
+            document.getElementById('p-meta').textContent = msg;
+            document.getElementById('content-area').classList.add('fade-active');
+        }
+
+        // Start the carousel loop
+        function startRotation() {
+            updateUI(products[currentIndex]);
+            
+            slideInterval = setInterval(() => {
+                currentIndex++;
+                if (currentIndex >= products.length) currentIndex = 0;
+                updateUI(products[currentIndex]);
+            }, SLIDE_DURATION);
+        }
+
+        // Update the DOM with the current product's data
+        function updateUI(item) {
+            const content = document.getElementById('content-area');
+            const progress = document.getElementById('progress');
+            
+            // Reset animations
+            content.classList.remove('fade-active');
+            progress.style.transition = 'none';
+            progress.style.width = '0%';
+
+            // Wait a moment for the fade-out, then swap data and fade in
+            setTimeout(() => {
+                // Text Data
+                document.getElementById('p-brand').textContent = item.brand || "Ohm Theory";
+                document.getElementById('p-name').textContent = item.name || "Unknown Product";
+                document.getElementById('p-price').textContent = item.price || "$0.00";
+                document.getElementById('p-meta').textContent = item.meta && item.meta !== "N/A" ? item.meta : "";
+                document.getElementById('p-category').textContent = item.category || "ON THE GO";
+                document.getElementById('item-count').textContent = `ITEM ${String(currentIndex + 1).padStart(2, '0')} / ${String(products.length).padStart(2, '0')}`;
+
+                // Generate QR Code dynamically based on item.url
+                const qrArea = document.getElementById('qrcode');
+                qrArea.innerHTML = ""; // Clear old QR code
+                
+                // Fallback URL to homepage if product URL is missing
+                const targetUrl = item.url ? item.url : "https://ohmtheory.com";
+                
+                new QRCode(qrArea, {
+                    text: targetUrl,
+                    width: 180,
+                    height: 180,
+                    colorDark : "#09090b",
+                    colorLight : "#ffffff",
+                    correctLevel : QRCode.CorrectLevel.H // High error correction for easier scanning
+                });
+
+                // Handle Image Loading securely
+                const img = document.getElementById('p-img');
+                const placeholder = document.getElementById('p-placeholder');
+                
+                if (item.image && (item.image.startsWith('http') || item.image.startsWith('//'))) {
+                    // Create a temp image object to ensure it loads before showing
+                    const tempImg = new Image();
+                    tempImg.onload = () => {
+                        img.src = tempImg.src;
+                        img.classList.remove('hidden');
+                        placeholder.classList.add('hidden');
+                    };
+                    tempImg.onerror = () => {
+                        img.classList.add('hidden');
+                        placeholder.classList.remove('hidden');
+                    };
+                    tempImg.src = item.image;
+                } else {
+                    img.classList.add('hidden');
+                    placeholder.classList.remove('hidden');
+                }
+
+                // Trigger fade-in animation
+                content.classList.add('fade-active');
+                
+                // Start progress bar animation
+                setTimeout(() => {
+                    progress.style.transition = `width ${SLIDE_DURATION}ms linear`;
+                    progress.style.width = '100%';
+                }, 50); // slight delay to ensure browser registers the reset
+                
+            }, 800); // 800ms fade-out transition time
+        }
+
+        // Keep the clock updated
+        function updateClock() {
+            const now = new Date();
+            let hours = now.getHours();
+            let minutes = now.getMinutes();
+            const ampm = hours >= 12 ? 'PM' : 'AM';
+            
+            hours = hours % 12;
+            hours = hours ? hours : 12; // the hour '0' should be '12'
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+            
+            document.getElementById('clock').textContent = hours + ':' + minutes + ' ' + ampm;
+        }
+
+        // Run clock updater every second
+        setInterval(updateClock, 1000);
+        updateClock(); // Initial call
+
+        // Start everything when page loads
+        window.onload = init;
+    </script>
+</body>
+</html>
