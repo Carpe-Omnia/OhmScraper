@@ -1,3 +1,25 @@
+name: Ohm Theory Automated Scraper
+
+This tells GitHub WHEN to run the robot
+
+on:
+schedule:
+# Runs every 30 minutes
+- cron: '*/30 * * * *'
+
+This line lets you manually click a "Run" button in GitHub to test it
+
+workflow_dispatch:
+
+Gives the robot permission to push code back to your repository
+
+permissions:
+contents: write
+
+jobs:
+scrape-and-update:
+runs-on: ubuntu-latest # Runs on a free Linux virtual machine
+
 steps:
   # 1. Grab your code from the repository
   - name: Checkout repository
