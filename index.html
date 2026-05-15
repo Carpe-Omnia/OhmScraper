@@ -149,8 +149,9 @@
 
     <script>
         // Configuration
-        const DATA_PATH = 'products_ohm.json';
+        const DATA_PATH = 'https://raw.githubusercontent.com/Carpe-Omnia/OhmScraper/main/products_ohm.json';
         const SLIDE_DURATION = 15000; // 15 Seconds per item
+        const SYNC_INTERVAL = 60000; // Check for updates every 60 seconds
         
         let products = [];
         let currentIndex = 0;
@@ -158,21 +159,36 @@
 
         // Initialize the app
         async function init() {
+            await fetchProducts(); // Initial fetch
+            setInterval(fetchProducts, SYNC_INTERVAL); // Start background polling
+        }
+
+        // Fetch products and silently update if things change
+        async function fetchProducts() {
             try {
                 // Fetch data with a cache-busting query parameter
                 const response = await fetch(DATA_PATH + '?v=' + new Date().getTime());
                 if (!response.ok) throw new Error('Network response was not ok');
                 
-                products = await response.json();
+                const newData = await response.json();
                 
-                if (products && products.length > 0) {
-                    startRotation();
-                } else {
+                // Compare new data with current data to see if an update is needed
+                if (JSON.stringify(newData) !== JSON.stringify(products)) {
+                    console.log("[+] Menu data updated from GitHub remote source!");
+                    products = newData;
+                    
+                    // If this is the very first load and we have data, start the carousel
+                    if (!slideInterval && products.length > 0) {
+                        startRotation();
+                    }
+                } else if (products.length === 0) {
                     showError("No products found in the feed.");
                 }
             } catch (error) {
                 console.error("Error loading products:", error);
-                showError("Unable to load menu data. Please check the JSON file.");
+                if (products.length === 0) {
+                    showError("Unable to load menu data from GitHub. Please check the URL.");
+                }
             }
         }
 
@@ -283,6 +299,17 @@
         // Run clock updater every second
         setInterval(updateClock, 1000);
         updateClock(); // Initial call
+
+        // Fullscreen Toggle on Double Click
+        document.addEventListener('dblclick', () => {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen().catch(err => {
+                    console.warn(`Error attempting to enable fullscreen: ${err.message}`);
+                });
+            } else {
+                document.exitFullscreen();
+            }
+        });
 
         // Start everything when page loads
         window.onload = init;
