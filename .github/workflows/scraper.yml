@@ -28,7 +28,7 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run Scraper
-        run: python scraper_ohm.py
+        run: python ohmscraper.py
 
       - name: Commit and Push Changes
         run: |
