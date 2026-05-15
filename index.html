@@ -65,7 +65,10 @@
             position: absolute;
             bottom: 0;
             left: 0;
-            width: 0%;
+            width: 100%;
+            transform-origin: left;
+            transform: scaleX(0);
+            will-change: transform; /* Hint to browser to use GPU */
         }
         
         /* Styling the dynamically generated QR code */
@@ -150,7 +153,7 @@
     <script>
         // Configuration
         const DATA_PATH = 'https://raw.githubusercontent.com/Carpe-Omnia/OhmScraper/main/products_ohm.json';
-        const SLIDE_DURATION = 15000; // 15 Seconds per item
+        const SLIDE_DURATION = 25000; // Increased to 25 seconds for a leisurely pace
         const SYNC_INTERVAL = 60000; // Check for updates every 60 seconds
         
         let products = [];
@@ -220,7 +223,7 @@
             // Reset animations
             content.classList.remove('fade-active');
             progress.style.transition = 'none';
-            progress.style.width = '0%';
+            progress.style.transform = 'scaleX(0)';
 
             // Wait a moment for the fade-out, then swap data and fade in
             setTimeout(() => {
@@ -275,8 +278,8 @@
                 
                 // Start progress bar animation
                 setTimeout(() => {
-                    progress.style.transition = `width ${SLIDE_DURATION}ms linear`;
-                    progress.style.width = '100%';
+                    progress.style.transition = `transform ${SLIDE_DURATION}ms linear`;
+                    progress.style.transform = 'scaleX(1)';
                 }, 50); // slight delay to ensure browser registers the reset
                 
             }, 800); // 800ms fade-out transition time
