@@ -2,7 +2,7 @@ name: Ohm Theory Automated Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 0-2,12-23 * * *'
   workflow_dispatch:
 
 permissions:
