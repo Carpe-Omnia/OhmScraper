@@ -1,140 +1,5 @@
 [
     {
-        "brand": "Green Lightning",
-        "name": "Black Maple | Smalls | 7g",
-        "price": "$42.00",
-        "meta": "Indica | THCa 30.34% | 7g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_795ab3ff-73fa-41ff-b901-a77015e3885b?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/green-lightning/green-lightning-black-maple-smalls-7g"
-    },
-    {
-        "brand": "Strike",
-        "name": "Midnight Mist | AIO | 0.5g",
-        "price": "$16.50",
-        "meta": "Hybrid | THCa 84.78% | 0.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_f2c94e63-2214-4e96-9122-8c4f60e4642d?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/strike/strike-midnight-mist-aio-05g"
-    },
-    {
-        "brand": "Unbranded",
-        "name": "Berry Medley | Prepack Mixed Buds | 28g",
-        "price": "$72.00",
-        "meta": "Sativa | THCa 21.65% | 28g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/unbranded/unbranded-berry-medley-prepack-mixed-buds-28g"
-    },
-    {
-        "brand": "Little Leaf Labs",
-        "name": "Moonrock | Purple Runtz | Ground Infused | (Max Potency) | 3.5g",
-        "price": "$32.00",
-        "meta": "Hybrid | THC 31.03% | 3.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_be50bf4b-3630-4938-8d0b-339f08314792?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/little-leaf-labs/moonrock-purple-runtz-ground-infused-flower-max-potency-35g"
-    },
-    {
-        "brand": "Grassroots",
-        "name": "prepack Whole Flower 3.5g- Tropicana Banana",
-        "price": "$22.50",
-        "meta": "Hybrid | THCa 30.99% | 3.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_957ac8ba-468a-4eac-956f-a465620ab485?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-prepack-whole-flower-35g-tropicana-banana"
-    },
-    {
-        "brand": "Strike",
-        "name": "Lemonade Kush | Disposable Vape | 2g",
-        "price": "$38.50",
-        "meta": "Hybrid | THC 83.63% | 2g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_3b5dc62c-820c-4a83-8c80-e8b3bce227fe?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/strike/strike-lemonade-kush-x-vape-cartridge-2g"
-    },
-    {
-        "brand": "Grassroots",
-        "name": "Motorbreath #15 | Live Sugar & Sauce | Concentrate | 1G",
-        "price": "$27.50",
-        "meta": "Indica | THCa 83.55% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_14699da1-22d0-4a60-9efe-313ccdab5f9c?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-cured-sugar-and-sauce-10g-motorbreath-15"
-    },
-    {
-        "brand": "Select",
-        "name": "Stiq | Blueberry Muffin | AIO | 1g",
-        "price": "$30.00",
-        "meta": "Indica | THCa 86.73% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_6c4fa207-4bfe-42fb-a4c4-821a36425de2?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/select/select-stiq-blueberry-muffin-aio-1g"
-    },
-    {
-        "brand": "Grassroots",
-        "name": "Triple Mints | Prepack Whole Flower | 3.5g",
-        "price": "$22.50",
-        "meta": "Indica | THCa 29.11% | 3.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b7d97437-1441-4f98-a3f3-076b2d03ec0d?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-triple-mints-prepack-whole-flower-35g"
-    },
-    {
-        "brand": "Fresh",
-        "name": "Modern Marvel | Pre-Roll | Single | 1G",
-        "price": "$6.60",
-        "meta": "Indica | THCa 23.83% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_1f067cf2-b036-44a9-814e-6b18490f1e34?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/fresh/pre-fresh-modern-marvel-1g"
-    },
-    {
-        "brand": "Find",
-        "name": "Jayna's Sunshine | Preroll | 1g",
-        "price": "$7.20",
-        "meta": "Hybrid | THCa 33.10% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_399e67b8-4e12-4c5e-b78e-4db26d024001?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/find/find-jaynas-sunshine-preroll-1g"
-    },
-    {
-        "brand": "Little Leaf Labs",
-        "name": "Moonrock | Mango Jack Herer | Ground Infused | (Max Potency) | 3.5g",
-        "price": "$32.00",
-        "meta": "Sativa | THC 30.92% | 3.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_be50bf4b-3630-4938-8d0b-339f08314792?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/little-leaf-labs/moonrock-mango-jack-herer-ground-infused-flower-max-potency-35g"
-    },
-    {
-        "brand": "Select",
-        "name": "Stiq | Mimosa | AIO | 1g",
-        "price": "$30.00",
-        "meta": "Hybrid | THCa 87.17% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d56783de-29c7-43b9-9417-bde089e5432a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/select/select-stiq-mimosa-aio-1g"
-    },
-    {
-        "brand": "Ozone Reserve",
-        "name": "Bruce Banner | Live Resin | Disposable Vape | 1g",
-        "price": "$38.50",
-        "meta": "THC 80.48% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_10c478b4-3bfc-4784-ac61-dfd07a7c0505?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/ozone-reserve/ozone-reserve-bruce-banner-live-resin-disposable-vape-1g"
-    },
-    {
-        "brand": "Ozone Reserve",
-        "name": "Sour Apricot | Live Resin | Disposable Vape | 1g",
-        "price": "$38.50",
-        "meta": "THC 79.33% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_810ff93d-cf56-4be4-b3e4-b48b8da995ae?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/ozone-reserve/ozone-reserve-sour-apricot-live-resin-disposable-vape-1g"
-    },
-    {
         "brand": "Grassroots",
         "name": "Berry Batter | Smalls | 14g",
         "price": "$75.00",
@@ -142,42 +7,6 @@
         "category": "ON THE GO",
         "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b965138b-d48f-4460-9316-a1af519d45c7?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
         "url": "https://ohmtheory.com/shop/grassroots/grassroots-berry-batter-smalls-14g"
-    },
-    {
-        "brand": "Grassroots",
-        "name": "Floral Frost | Smalls | 14g",
-        "price": "$75.00",
-        "meta": "Indica | THCa 32.37% | 14g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b9baabe9-3a3a-454a-ac1a-765f96dea9ed?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-floral-frost-smalls-14g"
-    },
-    {
-        "brand": "Find",
-        "name": "Primary Colors | Pre-Roll | Single | 1G",
-        "price": "$7.20",
-        "meta": "Sativa | THCa 25.70% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_c9b16dd3-6fbb-4455-9212-47760bcb3c80?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/find/find-primary-colors-pre-roll-single-1g"
-    },
-    {
-        "brand": "Elyon",
-        "name": "Government Oasis | Pre-Roll | 1.25g",
-        "price": "$7.20",
-        "meta": "Indica | THCa 31.48% | 1.25g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_86b7c045-96a2-4be5-a07c-fdc6b93c11ff?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/elyon/elyon-government-oasis-pre-roll-125g"
-    },
-    {
-        "brand": "Find",
-        "name": "Tri Berry | Prepack Mixed Buds | 3.5g",
-        "price": "$20.00",
-        "meta": "Indica | THCa 28.06% | 3.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_4a578842-abfc-46e6-b805-62601c4907d5?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/find/find-tri-berry-prepack-mixed-buds-35g"
     },
     {
         "brand": "Find",
@@ -189,13 +18,13 @@
         "url": "https://ohmtheory.com/shop/find/find-slingria-pre-pack-mixed-buds-35g"
     },
     {
-        "brand": "Rove",
-        "name": "Classics | Ape - I | 0.5g",
-        "price": "$22.00",
-        "meta": "Indica | THC 89.75% | 0.5g",
+        "brand": "Grassroots",
+        "name": "Dark Heart | Moonbeam Gelato | Prepack Smalls | 7g",
+        "price": "$42.50",
+        "meta": "Hybrid | THCa 32.22% | 7g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_0475e39d-f06b-4f6b-9164-655d3c8df99a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/rove/rove-classics-ape-i-05g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_37b78a1d-b457-404d-9696-8a91a49b0629?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-dark-heart-moonbeam-gelato-prepack-smalls-7g"
     },
     {
         "brand": "Green Lightning",
@@ -216,40 +45,40 @@
         "url": "https://ohmtheory.com/shop/green-lightning/green-lightning-yellow-subaru-smalls-7g"
     },
     {
-        "brand": "Valhalla",
-        "name": "Edibles | Soft Lozenges | Sweet Orange | 10 Pack",
-        "price": "$11.00",
-        "meta": "Sativa | CBD 0.44% | 2.8g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_24d56f62-6fc8-4155-b62c-0a33974b2e8c?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/valhalla/valhalla-edibles-soft-lozenges-sweet-orange-10-pack"
-    },
-    {
         "brand": "Green Lightning",
-        "name": "Blue Lobster | Flower | 3.5g",
+        "name": "Banana Split | Flower | 3.5g",
         "price": "$30.00",
-        "meta": "Indica | THCa 27.74% | 3.5g",
+        "meta": "Hybrid | THCa 30.13% | 3.5g",
         "category": "ON THE GO",
         "image": "https://dispense-images.imgix.net/dd834f0a62f75146_0c66959a-bfbc-43fc-ac3c-9487cfc692fd?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/green-lightning/green-lightning-blue-lobster-flower-35g"
+        "url": "https://ohmtheory.com/shop/green-lightning/green-lightning-banana-split-flower-35g"
     },
     {
-        "brand": "High Times Cannabis Cup",
-        "name": "Edibles : Gummies Kit |",
-        "price": "$90.00",
-        "meta": "Hybrid",
+        "brand": "Ozone Reserve",
+        "name": "Sour Apricot | Live Resin | Disposable Vape | 1g",
+        "price": "$38.50",
+        "meta": "THC 79.33% | 1g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_97ef6f54-1764-4520-a9d6-7d2b9d50415b?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/high-times-cannabis-cup/high-times-cannabis-cup-edibles-gummies-kit"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_810ff93d-cf56-4be4-b3e4-b48b8da995ae?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/ozone-reserve/ozone-reserve-sour-apricot-live-resin-disposable-vape-1g"
     },
     {
-        "brand": "Grassroots",
-        "name": "Dark Heart | Moonbeam Gelato | Whole Flower | 3.5g",
-        "price": "$25.00",
-        "meta": "Hybrid | THCa 29.76% | 3.5g",
+        "brand": "Little Leaf Labs",
+        "name": "Moonrock | White Widow | Ground Infused Shake| Max Potency | 3.5g",
+        "price": "$32.00",
+        "meta": "Hybrid | THC 28.99% | 3.5g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_f5a0aaa4-1e30-4448-98fa-3dbf192555c2?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-dark-heart-moonbeam-gelato-whole-flower-35g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_9c30aa78-4cff-4e3d-a8be-7615e206af33?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/little-leaf-labs/moonrock-white-widow-ground-infused-infused-flower-35g"
+    },
+    {
+        "brand": "Just Weed",
+        "name": "Dogwalker OG | Flower | 28g",
+        "price": "$186.00",
+        "meta": "Indica | THCa 31.21% | 28g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_41fc77cd-775b-4438-b2a0-1f30f892d060?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/just-weed/just-weed-dogwalker-og-flower-28g"
     },
     {
         "brand": "Ozone Reserve",
@@ -259,15 +88,6 @@
         "category": "ON THE GO",
         "image": "https://dispense-images.imgix.net/dd834f0a62f75146_6371fa3a-746e-4c96-b997-cc724a6911fc?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
         "url": "https://ohmtheory.com/shop/ozone-reserve/ozone-reserve-purple-milk-live-resin-disposable-vape-1g"
-    },
-    {
-        "brand": "Shaka",
-        "name": "Triangle Kush | Pre-Roll | Single | 1G",
-        "price": "$7.20",
-        "meta": "Indica | THCa 31.28% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_107cadb0-f4df-4f71-b444-00b937f54a81?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/shaka/shaka-triangle-kush-pre-roll-single-1g"
     },
     {
         "brand": "Unbranded",
@@ -280,57 +100,30 @@
     },
     {
         "brand": "Little Leaf Labs",
-        "name": "Moonrock | White Widow | Ground Infused Shake| Max Potency | 3.5g",
+        "name": "Moonrock | Mango Jack Herer | Ground Infused | (Max Potency) | 3.5g",
         "price": "$32.00",
-        "meta": "Hybrid | THC 28.99% | 3.5g",
+        "meta": "Sativa | THC 30.92% | 3.5g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_9c30aa78-4cff-4e3d-a8be-7615e206af33?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/little-leaf-labs/moonrock-white-widow-ground-infused-infused-flower-35g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_be50bf4b-3630-4938-8d0b-339f08314792?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/little-leaf-labs/moonrock-mango-jack-herer-ground-infused-flower-max-potency-35g"
     },
     {
-        "brand": "High Times Cannabis Cup",
-        "name": "Solvent Vape Pen & Cart Kit |",
-        "price": "$228.00",
-        "meta": "Hybrid | 4g",
+        "brand": "Green Lightning",
+        "name": "Blue Lobster | Flower | 3.5g",
+        "price": "$30.00",
+        "meta": "Indica | THCa 27.74% | 3.5g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_907ff01a-0b34-4afa-9fbf-332dacb38a58?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/high-times-cannabis-cup/high-times-cannabis-cup-solvent-vape-kit-3"
-    },
-    {
-        "brand": "Elyon",
-        "name": "Wellness | Zen | Pre-roll | THC:CBD 1:1 | 2pk",
-        "price": "$8.00",
-        "meta": "Hybrid | THCa 15.13% | 1.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d7f152c5-e9f3-4ea7-9731-7a8f47953f2a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/elyon/elyon-wellness-zen-pre-roll-thccbd-11-2pk"
-    },
-    {
-        "brand": "Valhalla",
-        "name": "Edibles | Soft Lozenges | Pineapple RSO | 10pk/100mg",
-        "price": "$13.75",
-        "meta": "Hybrid | CBD 0.20%",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_fdc82c4a-718b-40af-8d5c-504b4e0b2f22?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/valhalla/valhalla-edibles-soft-lozenges-pineapple-rso-10pk100mg"
-    },
-    {
-        "brand": "Feelz",
-        "name": "In Da Couch | Flower | 14g",
-        "price": "$72.00",
-        "meta": "Indica | THCa 28.64% | 14g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b578db6b-d821-4fd9-b0d9-6daef26787b4?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/feelz/feelz-in-da-couch-flower-14g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_0c66959a-bfbc-43fc-ac3c-9487cfc692fd?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/green-lightning/green-lightning-blue-lobster-flower-35g"
     },
     {
         "brand": "Grassroots",
-        "name": "Darkheart Collection | Titan Express | Flower | 3.5g",
-        "price": "$30.00",
-        "meta": "Sativa | THCa 29.69% | 3.5g",
+        "name": "Triple Mints | Prepack Whole Flower | 3.5g",
+        "price": "$22.50",
+        "meta": "Indica | THCa 29.11% | 3.5g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/e0f4f780-b44f-11ed-8fa3-9387e60df7fe.png?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-darkheart-collection-titan-express-flower-35g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b7d97437-1441-4f98-a3f3-076b2d03ec0d?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-triple-mints-prepack-whole-flower-35g"
     },
     {
         "brand": "Grassroots",
@@ -340,6 +133,42 @@
         "category": "ON THE GO",
         "image": "https://dispense-images.imgix.net/dd834f0a62f75146_0d5f074e-6a18-4224-aa0a-537a6caa8cd3?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
         "url": "https://ohmtheory.com/shop/grassroots/grassroots-dark-heart-collection-moonbeam-gelato-smalls-14g"
+    },
+    {
+        "brand": "High Grass",
+        "name": "Premium | Dulce De Ulva | Flower | 3.5g",
+        "price": "$24.75",
+        "meta": "THC 27.97% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_63f81346-7597-48df-bc64-1de58415fbbf?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/high-grass/high-grass-premium-dulce-de-ulva-flower-35g"
+    },
+    {
+        "brand": "Grassroots",
+        "name": "prepack Whole Flower 3.5g- Tropicana Banana",
+        "price": "$22.50",
+        "meta": "Hybrid | THCa 30.99% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_957ac8ba-468a-4eac-956f-a465620ab485?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-prepack-whole-flower-35g-tropicana-banana"
+    },
+    {
+        "brand": "Find",
+        "name": "Diesel Bites | Pre-Roll | Single | 1G",
+        "price": "$7.20",
+        "meta": "Sativa | THCa 28.42% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b1f22646-3fbb-4bb0-b40d-ec717d08b735?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/find/find-diesel-bites-pre-roll-single-1g"
+    },
+    {
+        "brand": "Feelz",
+        "name": "In Da Couch | Flower | 14g",
+        "price": "$72.00",
+        "meta": "Indica | THCa 28.64% | 14g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b578db6b-d821-4fd9-b0d9-6daef26787b4?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/feelz/feelz-in-da-couch-flower-14g"
     },
     {
         "brand": "Rove",
@@ -352,39 +181,102 @@
     },
     {
         "brand": "Select",
-        "name": "Stiq | Lemon Cherry Gelato | AIO | 1g",
+        "name": "Stiq | Mimosa | AIO | 1g",
         "price": "$30.00",
-        "meta": "Hybrid | THCa 87.01% | 1g",
+        "meta": "Hybrid | THCa 87.17% | 1g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d6a7fc41-3491-4200-b40d-9fee8de1ed11?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/select/select-stiq-lemon-cherry-gelato-aio-1g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d56783de-29c7-43b9-9417-bde089e5432a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/select/select-stiq-mimosa-aio-1g"
+    },
+    {
+        "brand": "High Times Cannabis Cup",
+        "name": "Edibles : Gummies Kit |",
+        "price": "$90.00",
+        "meta": "Hybrid",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_97ef6f54-1764-4520-a9d6-7d2b9d50415b?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/high-times-cannabis-cup/high-times-cannabis-cup-edibles-gummies-kit"
+    },
+    {
+        "brand": "Strike",
+        "name": "Lemonade Kush | Disposable Vape | 2g",
+        "price": "$38.50",
+        "meta": "Hybrid | THC 83.63% | 2g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_3b5dc62c-820c-4a83-8c80-e8b3bce227fe?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/strike/strike-lemonade-kush-x-vape-cartridge-2g"
+    },
+    {
+        "brand": "Find",
+        "name": "Tri Berry | Prepack Mixed Buds | 3.5g",
+        "price": "$20.00",
+        "meta": "Indica | THCa 28.06% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_4a578842-abfc-46e6-b805-62601c4907d5?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/find/find-tri-berry-prepack-mixed-buds-35g"
+    },
+    {
+        "brand": "Find",
+        "name": "Primary Colors | Pre-Roll | Single | 1G",
+        "price": "$7.20",
+        "meta": "Sativa | THCa 25.70% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_c9b16dd3-6fbb-4455-9212-47760bcb3c80?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/find/find-primary-colors-pre-roll-single-1g"
+    },
+    {
+        "brand": "Find",
+        "name": "Jayna's Sunshine | Preroll | 1g",
+        "price": "$7.20",
+        "meta": "Hybrid | THCa 33.10% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_399e67b8-4e12-4c5e-b78e-4db26d024001?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/find/find-jaynas-sunshine-preroll-1g"
+    },
+    {
+        "brand": "Elyon",
+        "name": "Wellness | Zen | Pre-roll | THC:CBD 1:1 | 2pk",
+        "price": "$8.00",
+        "meta": "Hybrid | THCa 15.13% | 1.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d7f152c5-e9f3-4ea7-9731-7a8f47953f2a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/elyon/elyon-wellness-zen-pre-roll-thccbd-11-2pk"
+    },
+    {
+        "brand": "Unbranded",
+        "name": "Berry Medley | Prepack Mixed Buds | 28g",
+        "price": "$72.00",
+        "meta": "Sativa | THCa 21.65% | 28g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/unbranded/unbranded-berry-medley-prepack-mixed-buds-28g"
+    },
+    {
+        "brand": "Ozone Reserve",
+        "name": "Bruce Banner | Live Resin | Disposable Vape | 1g",
+        "price": "$38.50",
+        "meta": "THC 80.48% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_10c478b4-3bfc-4784-ac61-dfd07a7c0505?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/ozone-reserve/ozone-reserve-bruce-banner-live-resin-disposable-vape-1g"
+    },
+    {
+        "brand": "Grassroots",
+        "name": "Motorbreath #15 | Live Sugar & Sauce | Concentrate | 1G",
+        "price": "$27.50",
+        "meta": "Indica | THCa 83.55% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_14699da1-22d0-4a60-9efe-313ccdab5f9c?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-cured-sugar-and-sauce-10g-motorbreath-15"
     },
     {
         "brand": "Green Lightning",
-        "name": "Banana Split | Flower | 3.5g",
-        "price": "$30.00",
-        "meta": "Hybrid | THCa 30.13% | 3.5g",
+        "name": "Black Maple | Smalls | 7g",
+        "price": "$42.00",
+        "meta": "Indica | THCa 30.34% | 7g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_0c66959a-bfbc-43fc-ac3c-9487cfc692fd?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/green-lightning/green-lightning-banana-split-flower-35g"
-    },
-    {
-        "brand": "High Grass",
-        "name": "Premium | Dulce De Ulva | Flower | 3.5g",
-        "price": "$24.75",
-        "meta": "THC 27.97% | 3.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_63f81346-7597-48df-bc64-1de58415fbbf?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/high-grass/high-grass-premium-dulce-de-ulva-flower-35g"
-    },
-    {
-        "brand": "Just Weed",
-        "name": "Dogwalker OG | Flower | 28g",
-        "price": "$186.00",
-        "meta": "Indica | THCa 31.21% | 28g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_41fc77cd-775b-4438-b2a0-1f30f892d060?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/just-weed/just-weed-dogwalker-og-flower-28g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_795ab3ff-73fa-41ff-b901-a77015e3885b?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/green-lightning/green-lightning-black-maple-smalls-7g"
     },
     {
         "brand": "Unbranded",
@@ -396,21 +288,129 @@
         "url": "https://ohmtheory.com/shop/unbranded/unbranded-thai-sunrise-prepack-mixed-buds-28g"
     },
     {
-        "brand": "Grassroots",
-        "name": "Dark Heart | Moonbeam Gelato | Prepack Smalls | 7g",
-        "price": "$42.50",
-        "meta": "Hybrid | THCa 32.22% | 7g",
+        "brand": "Valhalla",
+        "name": "Edibles | Soft Lozenges | Sweet Orange | 10 Pack",
+        "price": "$11.00",
+        "meta": "Sativa | CBD 0.44% | 2.8g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_37b78a1d-b457-404d-9696-8a91a49b0629?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-dark-heart-moonbeam-gelato-prepack-smalls-7g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_24d56f62-6fc8-4155-b62c-0a33974b2e8c?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/valhalla/valhalla-edibles-soft-lozenges-sweet-orange-10-pack"
     },
     {
-        "brand": "Find",
-        "name": "Diesel Bites | Pre-Roll | Single | 1G",
-        "price": "$7.20",
-        "meta": "Sativa | THCa 28.42% | 1g",
+        "brand": "Grassroots",
+        "name": "Floral Frost | Smalls | 14g",
+        "price": "$75.00",
+        "meta": "Indica | THCa 32.37% | 14g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b1f22646-3fbb-4bb0-b40d-ec717d08b735?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/find/find-diesel-bites-pre-roll-single-1g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b9baabe9-3a3a-454a-ac1a-765f96dea9ed?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-floral-frost-smalls-14g"
+    },
+    {
+        "brand": "Select",
+        "name": "Stiq | Blueberry Muffin | AIO | 1g",
+        "price": "$30.00",
+        "meta": "Indica | THCa 86.73% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_6c4fa207-4bfe-42fb-a4c4-821a36425de2?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/select/select-stiq-blueberry-muffin-aio-1g"
+    },
+    {
+        "brand": "Valhalla",
+        "name": "Edibles | Soft Lozenges | Pineapple RSO | 10pk/100mg",
+        "price": "$13.75",
+        "meta": "Hybrid | CBD 0.20%",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_fdc82c4a-718b-40af-8d5c-504b4e0b2f22?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/valhalla/valhalla-edibles-soft-lozenges-pineapple-rso-10pk100mg"
+    },
+    {
+        "brand": "Elyon",
+        "name": "Government Oasis | Pre-Roll | 1.25g",
+        "price": "$7.20",
+        "meta": "Indica | THCa 31.48% | 1.25g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_86b7c045-96a2-4be5-a07c-fdc6b93c11ff?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/elyon/elyon-government-oasis-pre-roll-125g"
+    },
+    {
+        "brand": "Rove",
+        "name": "Classics | Ape - I | 0.5g",
+        "price": "$22.00",
+        "meta": "Indica | THC 89.75% | 0.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_0475e39d-f06b-4f6b-9164-655d3c8df99a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/rove/rove-classics-ape-i-05g"
+    },
+    {
+        "brand": "Grassroots",
+        "name": "Darkheart Collection | Titan Express | Flower | 3.5g",
+        "price": "$30.00",
+        "meta": "Sativa | THCa 29.69% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/e0f4f780-b44f-11ed-8fa3-9387e60df7fe.png?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-darkheart-collection-titan-express-flower-35g"
+    },
+    {
+        "brand": "High Times Cannabis Cup",
+        "name": "Solvent Vape Pen & Cart Kit |",
+        "price": "$228.00",
+        "meta": "Hybrid | 4g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_907ff01a-0b34-4afa-9fbf-332dacb38a58?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/high-times-cannabis-cup/high-times-cannabis-cup-solvent-vape-kit-3"
+    },
+    {
+        "brand": "Grassroots",
+        "name": "Dark Heart | Moonbeam Gelato | Whole Flower | 3.5g",
+        "price": "$25.00",
+        "meta": "Hybrid | THCa 29.76% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_f5a0aaa4-1e30-4448-98fa-3dbf192555c2?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-dark-heart-moonbeam-gelato-whole-flower-35g"
+    },
+    {
+        "brand": "Strike",
+        "name": "Midnight Mist | AIO | 0.5g",
+        "price": "$16.50",
+        "meta": "Hybrid | THCa 84.78% | 0.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_f2c94e63-2214-4e96-9122-8c4f60e4642d?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/strike/strike-midnight-mist-aio-05g"
+    },
+    {
+        "brand": "Shaka",
+        "name": "Triangle Kush | Pre-Roll | Single | 1G",
+        "price": "$7.20",
+        "meta": "Indica | THCa 31.28% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_107cadb0-f4df-4f71-b444-00b937f54a81?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/shaka/shaka-triangle-kush-pre-roll-single-1g"
+    },
+    {
+        "brand": "Fresh",
+        "name": "Modern Marvel | Pre-Roll | Single | 1G",
+        "price": "$6.60",
+        "meta": "Indica | THCa 23.83% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_1f067cf2-b036-44a9-814e-6b18490f1e34?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/fresh/pre-fresh-modern-marvel-1g"
+    },
+    {
+        "brand": "Little Leaf Labs",
+        "name": "Moonrock | Purple Runtz | Ground Infused | (Max Potency) | 3.5g",
+        "price": "$32.00",
+        "meta": "Hybrid | THC 31.03% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_be50bf4b-3630-4938-8d0b-339f08314792?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/little-leaf-labs/moonrock-purple-runtz-ground-infused-flower-max-potency-35g"
+    },
+    {
+        "brand": "Select",
+        "name": "Stiq | Lemon Cherry Gelato | AIO | 1g",
+        "price": "$30.00",
+        "meta": "Hybrid | THCa 87.01% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d6a7fc41-3491-4200-b40d-9fee8de1ed11?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/select/select-stiq-lemon-cherry-gelato-aio-1g"
     }
 ]
