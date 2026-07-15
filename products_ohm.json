@@ -9,6 +9,15 @@
         "url": "https://ohmtheory.com/shop/unbranded/unbranded-mystery-bouquet-prepack-mixed-buds-28g"
     },
     {
+        "brand": "Unbranded",
+        "name": "Thai Sunrise | Prepack Mixed Buds | 28g",
+        "price": "$90.00",
+        "meta": "Sativa | THCa 30.71% | 28g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/unbranded/unbranded-thai-sunrise-prepack-mixed-buds-28g"
+    },
+    {
         "brand": "New Earth Extracts",
         "name": "Hibernate | Live Resin Badder | 1g",
         "price": "$24.00",
@@ -25,14 +34,5 @@
         "category": "ON THE GO",
         "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
         "url": "https://ohmtheory.com/shop/unbranded/unbranded-berry-medley-prepack-mixed-buds-28g"
-    },
-    {
-        "brand": "Unbranded",
-        "name": "Thai Sunrise | Prepack Mixed Buds | 28g",
-        "price": "$90.00",
-        "meta": "Sativa | THCa 30.71% | 28g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/unbranded/unbranded-thai-sunrise-prepack-mixed-buds-28g"
     }
 ]
