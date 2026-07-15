@@ -1,41 +1,5 @@
 [
     {
-        "brand": "Brute's Roots",
-        "name": "Permanent Power | Large Buds | 3.5g",
-        "price": "$26.40",
-        "meta": "Hybrid | THCa 29.59% | 3.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_271ec03a-a767-4ad0-8f59-96dfbfb9f920?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/brutes-roots/brutes-roots-permanent-power-large-buds-35g"
-    },
-    {
-        "brand": "Unbranded",
-        "name": "Berry Medley | Prepack Mixed Buds | 28g",
-        "price": "$108.00",
-        "meta": "Sativa | THCa 21.65% | 28g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/unbranded/unbranded-berry-medley-prepack-mixed-buds-28g"
-    },
-    {
-        "brand": "Rove",
-        "name": "Ready-To-Use Live Resin Diamond Vaporizer | Orange Crush - S | 1.0g",
-        "price": "$45.00",
-        "meta": "Sativa | THC 92.11% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_7e4d3b78-8479-464d-8483-2edf7d074a99?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/rove/rove-ready-to-use-live-resin-diamond-vaporizer-orange-crush-s-10g"
-    },
-    {
-        "brand": "Unbranded",
-        "name": "Thai Sunrise | Prepack Mixed Buds | 28g",
-        "price": "$90.00",
-        "meta": "Sativa | THCa 30.71% | 28g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/unbranded/unbranded-thai-sunrise-prepack-mixed-buds-28g"
-    },
-    {
         "brand": "Cookies",
         "name": "Cereal Milk + Cinnamon Milk | CDT 3-in-1 | Disposable Vape | 2g",
         "price": "$66.00",
@@ -45,22 +9,22 @@
         "url": "https://ohmtheory.com/shop/cookies/cookies-cereal-milk-cinnamon-milk-cdt-3-in-1-disposable-vape-2g"
     },
     {
-        "brand": "Grassroots",
-        "name": "Singapore Sling | Whole Flower | 3.5g",
-        "price": "$22.50",
-        "meta": "Sativa | THCa 28.90% | 3.5g",
+        "brand": "The Farmers Market",
+        "name": "Blackberry Gelato | AIO | 1g",
+        "price": "$27.50",
+        "meta": "Indica | THCa 89.13% | 1g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_76cfeddb-4b06-4789-a0d1-a893290907c7?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/grassroots/grassroots-singapore-sling-whole-flower-35g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_ae4926b9-0a1b-4eed-90e9-2610be5dcbe9?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/the-farmers-market/the-farmers-market-blackberry-gelato-aio-1g"
     },
     {
-        "brand": "Elyon",
-        "name": "Watermelon Mimosa | Flower | 3.5g",
-        "price": "$30.25",
-        "meta": "Sativa | THCa 32.93% | 3.5g",
+        "brand": "Heavy Hitters",
+        "name": "Blackberry Kush | AIO | 2g",
+        "price": "$60.50",
+        "meta": "Indica | THCa 88.07% | 2g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_68491719-111d-438c-a5d7-9c195feca28a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/elyon/elyon-watermelon-mimosa-flower-35g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_bd866f83-04ef-4a0d-ad9d-a5b038b01d98?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/heavy-hitters/heavy-hitters-blackberry-kush-aio-2g"
     },
     {
         "brand": "Strike",
@@ -72,6 +36,24 @@
         "url": "https://ohmtheory.com/shop/strike/strike-thunder-punch-aio-05g"
     },
     {
+        "brand": "Hillview Farms",
+        "name": "Super Boof | Pre-Roll | 0.5g | 2pk",
+        "price": "$9.00",
+        "meta": "Hybrid | THCa 33% | 1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d9d64e37-e755-4467-8108-46dbd1c14b70?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/hillview-farms/hillview-farms-super-boof-pre-roll-05g-2pk"
+    },
+    {
+        "brand": "Grassroots",
+        "name": "Singapore Sling | Whole Flower | 3.5g",
+        "price": "$22.50",
+        "meta": "Sativa | THCa 28.90% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_76cfeddb-4b06-4789-a0d1-a893290907c7?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/grassroots/grassroots-singapore-sling-whole-flower-35g"
+    },
+    {
         "brand": "Tokesly",
         "name": "Grape Rock Candy | Flower | 3.5g",
         "price": "$42.00",
@@ -81,22 +63,49 @@
         "url": "https://ohmtheory.com/shop/tokesly/tokesly-grape-rock-candy-flower-35g"
     },
     {
-        "brand": "Nama",
-        "name": "Euphoria | Permanent Marker | Live Resin | 2 Gummies | 100mg",
-        "price": "$8.00",
-        "meta": "Hybrid | CBD 0.05% | 0.1g",
+        "brand": "Unbranded",
+        "name": "Thai Sunrise | Prepack Mixed Buds | 28g",
+        "price": "$90.00",
+        "meta": "Sativa | THCa 30.71% | 28g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_7d77651e-954c-45f2-b60e-ebf42ed8a682?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/nama/nama-euphoria-permanent-marker-live-resin-2-gummies-100mg"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/unbranded/unbranded-thai-sunrise-prepack-mixed-buds-28g"
+    },
+    {
+        "brand": "Feelz",
+        "name": "In Da Couch | Flower | 14g",
+        "price": "$60.00",
+        "meta": "Indica | THCa 28.64% | 14g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b578db6b-d821-4fd9-b0d9-6daef26787b4?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/feelz/feelz-in-da-couch-flower-14g"
+    },
+    {
+        "brand": "Brute's Roots",
+        "name": "Permanent Power | Large Buds | 3.5g",
+        "price": "$26.40",
+        "meta": "Hybrid | THCa 29.59% | 3.5g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_271ec03a-a767-4ad0-8f59-96dfbfb9f920?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/brutes-roots/brutes-roots-permanent-power-large-buds-35g"
     },
     {
         "brand": "Elyon",
-        "name": "Government Oasis | Flower | 3.5g",
-        "price": "$27.50",
-        "meta": "Indica | THCa 26.99% | 3.5g",
+        "name": "Watermelon Mimosa | Flower | 3.5g",
+        "price": "$30.25",
+        "meta": "Sativa | THCa 32.93% | 3.5g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_42c82456-4080-412c-97c9-3b0a0631ee16?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/elyon/elyon-government-oasis-flower-35g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_68491719-111d-438c-a5d7-9c195feca28a?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/elyon/elyon-watermelon-mimosa-flower-35g"
+    },
+    {
+        "brand": "Unbranded",
+        "name": "Berry Medley | Prepack Mixed Buds | 28g",
+        "price": "$108.00",
+        "meta": "Sativa | THCa 21.65% | 28g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_66ed326a-4cb3-4255-b8cf-e4c1e1eb4039?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/unbranded/unbranded-berry-medley-prepack-mixed-buds-28g"
     },
     {
         "brand": "Feelz",
@@ -117,31 +126,13 @@
         "url": "https://ohmtheory.com/shop/1906/1906-love-tablets-30pk-75mg"
     },
     {
-        "brand": "Heavy Hitters",
-        "name": "Blackberry Kush | AIO | 2g",
-        "price": "$60.50",
-        "meta": "Indica | THCa 88.07% | 2g",
+        "brand": "Rove",
+        "name": "Ready-To-Use Live Resin Diamond Vaporizer | Orange Crush - S | 1.0g",
+        "price": "$45.00",
+        "meta": "Sativa | THC 92.11% | 1g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_bd866f83-04ef-4a0d-ad9d-a5b038b01d98?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/heavy-hitters/heavy-hitters-blackberry-kush-aio-2g"
-    },
-    {
-        "brand": "The Farmers Market",
-        "name": "Blackberry Gelato | AIO | 1g",
-        "price": "$27.50",
-        "meta": "Indica | THCa 89.13% | 1g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_ae4926b9-0a1b-4eed-90e9-2610be5dcbe9?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/the-farmers-market/the-farmers-market-blackberry-gelato-aio-1g"
-    },
-    {
-        "brand": "Hillview Farms",
-        "name": "Gorilla Breath | Pre-Roll | 5pk | 2.5g",
-        "price": "$22.00",
-        "meta": "Indica | THCa 27.16% | 2.5g",
-        "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_ca17e9e0-6000-4ba1-b120-36b4c4a916db?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/hillview-farms/hillview-farms-gorilla-breath-pre-roll-5pk-25g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_7e4d3b78-8479-464d-8483-2edf7d074a99?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/rove/rove-ready-to-use-live-resin-diamond-vaporizer-orange-crush-s-10g"
     },
     {
         "brand": "Hillview Farms",
@@ -162,21 +153,30 @@
         "url": "https://ohmtheory.com/shop/unbranded/unbranded-mystery-bouquet-prepack-mixed-buds-28g"
     },
     {
-        "brand": "Feelz",
-        "name": "In Da Couch | Flower | 14g",
-        "price": "$60.00",
-        "meta": "Indica | THCa 28.64% | 14g",
+        "brand": "Elyon",
+        "name": "Government Oasis | Flower | 3.5g",
+        "price": "$27.50",
+        "meta": "Indica | THCa 26.99% | 3.5g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_b578db6b-d821-4fd9-b0d9-6daef26787b4?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/feelz/feelz-in-da-couch-flower-14g"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_42c82456-4080-412c-97c9-3b0a0631ee16?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/elyon/elyon-government-oasis-flower-35g"
+    },
+    {
+        "brand": "Nama",
+        "name": "Euphoria | Permanent Marker | Live Resin | 2 Gummies | 100mg",
+        "price": "$8.00",
+        "meta": "Hybrid | CBD 0.05% | 0.1g",
+        "category": "ON THE GO",
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_7d77651e-954c-45f2-b60e-ebf42ed8a682?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/nama/nama-euphoria-permanent-marker-live-resin-2-gummies-100mg"
     },
     {
         "brand": "Hillview Farms",
-        "name": "Super Boof | Pre-Roll | 0.5g | 2pk",
-        "price": "$9.00",
-        "meta": "Hybrid | THCa 33% | 1g",
+        "name": "Gorilla Breath | Pre-Roll | 5pk | 2.5g",
+        "price": "$22.00",
+        "meta": "Indica | THCa 27.16% | 2.5g",
         "category": "ON THE GO",
-        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_d9d64e37-e755-4467-8108-46dbd1c14b70?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-        "url": "https://ohmtheory.com/shop/hillview-farms/hillview-farms-super-boof-pre-roll-05g-2pk"
+        "image": "https://dispense-images.imgix.net/dd834f0a62f75146_ca17e9e0-6000-4ba1-b120-36b4c4a916db?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+        "url": "https://ohmtheory.com/shop/hillview-farms/hillview-farms-gorilla-breath-pre-roll-5pk-25g"
     }
 ]
